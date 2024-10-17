@@ -1,5 +1,4 @@
 class Shape {
-
     private String name, color;
 
     public Shape(String name, String color){
